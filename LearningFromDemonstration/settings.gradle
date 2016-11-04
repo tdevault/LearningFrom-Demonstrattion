@@ -1,0 +1,1 @@
+include ':app', ':cOTSBotsClient', ':robot', ':remoteLFD', ':robotData', ':openCVLibrary300', ':cotsBotsRobotController', ':neuroph', ':communicationMessage', ':cotsBotsBluetoothDiscovery'
